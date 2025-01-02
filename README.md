@@ -63,6 +63,6 @@ Voir le site en direct : [Portfolio](https://mxochenz.github.io/portfolio/)
 
 ## Contact
 
-- Email : votre-email@exemple.com
+- Email : jose.garranas@hotmail.com
 - LinkedIn : [Garranas](https://www.linkedin.com/in/jos%C3%A9-garranas-6801a6295/)
 - GitHub : [@mxochenz](https://github.com/mxochenz)
