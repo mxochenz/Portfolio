@@ -59,7 +59,7 @@ portfolio/
 
 ## Démonstration
 
-Voir le site en direct : [Portfolio](https://mxochenz.github.io/portfolio/)
+Voir le site en direct : [Portfolio](https://mxochenz.github.io/Portfolio/)
 
 ## Contact
 
